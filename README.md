@@ -27,7 +27,7 @@ You will also need a compatible WebDriver for Selenium. For example, download [C
    git clone https://github.com/your-username/apple-trademark-scraper.git
    cd apple-trademark-scraper
 
-	2.	Install the required Python libraries:
+2.	Install the required Python libraries:
 
   '''pip install selenium beautifulsoup4'''
 
@@ -38,5 +38,9 @@ You will also need a compatible WebDriver for Selenium. For example, download [C
 
 ## Important Notes
 
-	•	The trademarks and service marks are the property of Apple Inc..
-	•	This script does not modify or infringe upon any intellectual property rights. It only provides publicly available information in a structured format for easier analysis.
+- The trademarks and service marks are the property of Apple Inc..
+- This script does not modify or infringe upon any intellectual property rights. It only provides publicly available information in a structured format for easier analysis.
+
+  This script does not modify or infringe upon any intellectual property rights. It only provides publicly available information in a structured format for easier analysis.
+
+If you plan to use the extracted data for commercial or legal purposes, ensure you comply with Apple’s Terms of Use. https://www.apple.com/legal/internet-services/terms/site.html
